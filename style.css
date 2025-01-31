@@ -244,7 +244,7 @@ body {
   }
 
   .parallax {
-    background-image: url(./img/inno6.jpg);
+    background-image: url(./inno6.jpg);
     min-height: 400px;
     background-attachment: fixed;
     background-position: right;
